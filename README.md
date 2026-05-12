@@ -9,3 +9,4 @@ This project utilizes advanced Microsoft Excel features to provide a seamless fi
 * **Dynamic Data Filtering:** Implements Excel Slicers for seamless, one-click filtering of dashboard metrics (e.g., filter by month, year, or expense category).
 * **Automated Summaries:** Powered by interconnected Pivot Tables that automatically aggregate raw transaction data into meaningful insights.
 * **Macro-Enabled Automation:** Includes VBA (Visual Basic for App
+Dataset used dashboard of Personal Finance.xlsm
